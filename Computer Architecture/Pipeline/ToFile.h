@@ -1,0 +1,3 @@
+void printSnapShot();
+
+void printError();

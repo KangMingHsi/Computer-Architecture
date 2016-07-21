@@ -1,0 +1,2 @@
+int checkMem(int gap);
+
